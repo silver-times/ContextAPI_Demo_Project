@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Context API Shopping Cart Demo 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://context-api-demo-shopping-cart-rs.netlify.app/
+(https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
