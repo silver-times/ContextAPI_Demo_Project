@@ -6,7 +6,7 @@ const Home = () => {
   const { products } = useContext(shopContext);
 
   return (
-    <div className="grid grid-cols-4 gap-4">
+    <div className="grid grid-cols-4 gap-20 px-20">
       {products.map((product) => (
         <Product
           key={product.id}

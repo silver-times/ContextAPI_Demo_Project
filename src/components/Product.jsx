@@ -15,7 +15,7 @@ const Product = ({ image, title, price, id }) => {
   };
 
   return (
-    <div className="bg-white flex flex-col items-center justify-end">
+    <div className="bg-white rounded-2xl flex flex-col items-center justify-end">
       <div className="flex flex-col justify-center items-center">
         <img src={image} alt={title} className="w-[120px] h-auto mt-5" />
         <h1 className="text-xs font-extrabold mt-5">{title}</h1>
